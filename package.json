@@ -41,7 +41,7 @@
     "happy-dom": "^18.0.1",
     "vitest": "^3.2.4",
     "@vitest/coverage-istanbul": "^3.2.4",
-    "@types/node": "^24.0.3",
+    "@types/node": "^24.0.15",
     "@types/chrome": "^0.0.326",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
